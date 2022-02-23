@@ -1,13 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Ubuntu&display=swap");
+
+
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Raleway", sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body::-webkit-scrollbar{
+  width: 9px;
+  background-color: #383c41;
+}
+body::-webkit-scrollbar-thumb{
+  border-radius: 10px;
+  background-color: #6b6b6b;
+}
+body::-webkit-scrollbar-track{
+  border-radius: 10px;
+  background-color: #383c41;
+}
+
+.nav-link:hover {
+  color: white;
+  border: nome;
+  outline: none;
+
+  transition: all 0.6s ease;
+}
+.card:hover {
+  background-color: #383c41;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+}
+@media screen and (min-width: 315px) {
+  .card {
+    margin: 30px auto;
+  }
+}
+@media screen and (max-width: 991px) {
+  .container-fluid {
+    text-align: center;
+  }
+
+  .nav-link {
+    font-size: 22px;
+  }
+}
+.btn {
+  box-shadow: inset 0 0 0 0 #212529;
+  transition: ease-out 0.2s;
+
+  outline: none;
+}
+
+.btn:hover {
+  box-shadow: inset 300px 0 0 0 rgb(88, 88, 88);
+  cursor: pointer;
+  color: white;
+}
+
+hr {
+  color: #000;
 }

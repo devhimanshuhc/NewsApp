@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Watch Canada's short track speed skaters compete at Beijing 2022 | CBC Sports",
+      "description": "Watch live coverage of Olympic short track speed skating at the Beijing 2022 Olympic Winter Games. Live action from Capital Indoor Stadium includes the quarter-finals, semifinals and finals of the men's 1,500-metres.",
+      "url": "http://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/olympics-short-track-speed-skating-canada-beijng-olympics-day-5-1.6342049",
+      "urlToImage": "https://i.cbc.ca/1.6344618.1644403707!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/oly-short-track-20220201.JPG",
+      "publishedAt": "2022-02-09T10:52:24.8497114Z",
+      "content": "Click on the video player above beginning on Wednesday at 6 a.m. ET to watch live coverage of Olympic short track speed skating at the Beijing 2022 Olympic Winter Games.\r\nLive action from the Capital… [+830 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Olympic viewing guide: Can Brad Gushue help redeem Canadian curling? | CBC Sports",
+      "description": "Here's what to watch on Tuesday night and Wednesday morning, including a fresh start for Canadian curlers and a chance for Charles Hamelin to tie a medal record.",
+      "url": "http://www.cbc.ca/sports/olympics/winter/the-buzzer-olympic-viewing-guide-gushue-redemption-canada-curling-1.6344163",
+      "urlToImage": "https://i.cbc.ca/1.6241677.1637270717!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cur-brier-20210313.jpg",
+      "publishedAt": "2022-02-09T09:52:25.9275972Z",
+      "content": "This is an excerpt from The Buzzer, which is CBC Sports' daily email newsletter. Stay up to speed on what's happening at the Beijing 2022 Olympic Winter Games by subscribing here.\r\nAfter racking up f… [+11188 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Canada's Meryeta O'Dine rides to bronze in women's snowboard cross | CBC Sports",
+      "description": "Meryeta O'Dine won the first Olympic medal of her career, capturing bronze in the women's snowboard cross competition.",
+      "url": "http://www.cbc.ca/sports/olympics/winter/snowboard/sbx-odine-snowboard-beijing-1.6344559",
+      "urlToImage": "https://i.cbc.ca/1.6344608.1644398899!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1369502145.jpg",
+      "publishedAt": "2022-02-09T09:52:22.8189952Z",
+      "content": "Meryeta O'Dine of Prince George, B.C., won the first Olympic medal of her career, capturing bronze in the women's snowboard cross competition, sharing the podium with gold-medal winner Lindsey Jacobe… [+2891 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Canada in line for possible upgrade to podium in Olympic team figure skating | CBC Sports",
+      "description": "An ongoing legal issue involving the medallists in the team figure skating competition at the Beijing Olympics has caused the award ceremony to be delayed, the International Olympic Committee said Wednesday.",
+      "url": "http://www.cbc.ca/sports/olympics/winter/figure-skating/olympics-figure-skating-team-event-medal-ceremony-delayed-1.6344572",
+      "urlToImage": "https://i.cbc.ca/1.6344577.1644384182!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/schizas-madeline-020922.jpg",
+      "publishedAt": "2022-02-09T06:22:20.3688662Z",
+      "content": "An ongoing legal issue involving medallists in the team figure skating competition at the Beijing Olympics has caused the award ceremony to be delayed, the International Olympic Committee said Wednes… [+1216 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "Mikaela Shiffrin's stumbles magnified by the Olympics lens",
+      "description": "Mikaela Shiffrin's stumble just shows how the unpredictable nature of sports is magnified at the Olympics, Martin Rogers writes.",
+      "url": "http://www.foxsports.com/stories/olympics/mikaela-shiffrins-stumbles-magnified-by-the-olympics-lens",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/1408/814/shiffrin-wide-020822.jpg?ve=1&tl=1",
+      "publishedAt": "2022-02-09T05:06:04Z",
+      "content": "By Martin Rogers\r\nFOX Sports Columnist\r\nMikaela Shiffrin sat there in the snow, wondering, just like everyone else, what the heck had just happened. There werent any tears, not yet, because she was t… [+5826 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "Super Bowl 2022: L.A. loves its stars, Rams have plenty of them",
+      "description": "When it comes to L.A. sports, the method of operations is to go big, or to go on a fast track to irrelevance, Martin Rogers writes.",
+      "url": "http://www.foxsports.com/stories/nfl/super-bowl-2022-los-angeles-loves-its-stars-rams-have-plenty-of-them",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/1408/814/2.8.22_Los-Angeles-Finally-Got-It-Right_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-02-08T23:54:50Z",
+      "content": "By Martin Rogers\r\nFOX Sports Columnist\r\nIn Los Angeles, there is only one process thats good enough for the locals. The whole \"tank and rebuild\" philosophy doesnt really fly here. Building slowly doe… [+4742 chars]"
+    }
+  ]
+}
